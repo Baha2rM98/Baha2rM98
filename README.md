@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 **Data Scientist & ML Engineer** passionate about transforming data into actionable insights
+🎓 **Data Scientist & ML & AI Engineer** passionate about transforming data into actionable insights
 
 **Master's degree in Data Science** graduate from the University of Padua, with expertise spanning machine learning, deep learning, and web backend development. I enjoy tackling complex problems and building scalable solutions that bridge the gap between data science and software engineering.
 
@@ -7,9 +7,9 @@
 - Machine Learning & Deep Learning
 - Natural Language Processing
 - Computer Vision
-- Data Engineering & MLOps
+- AI Engineering & MLOps
 
-🌱 **Currently Learning:** Advanced Deep Learning techniques, MLOps practices, and cloud-based ML deployment
+🌱 **Currently Learning:** Advanced Deep Learning techniques, MLOps practices, and cloud-based LLM deployment
 
 📫 **Let's Connect:** I'm always open to discussing data science projects, research collaborations, or exciting opportunities!
 
@@ -78,23 +78,6 @@ Explore my repositories to see my work in action!
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Baha2rM98&limit=5&theme=default&combine_all_yearly_contributions=true)
-
-# 🎯 Goals for 2025
-- [ ] Secure a position as a Data Scientist or ML Engineer
-- [ ] Contribute to open-source ML/AI projects
-- [ ] Publish research papers or technical articles
-- [ ] Build production-ready ML applications with MLOps
-- [ ] Learn advanced cloud ML services (AWS SageMaker, Google AI Platform)
-
-# 💼 Open to Opportunities
-🔍 **Currently seeking:** Data Scientist, ML Engineer, or AI Research positions
-
-I'm passionate about applying machine learning to solve real-world problems and would love to contribute to innovative projects in:
-- Healthcare & Medical AI
-- Financial Technology
-- Computer Vision Applications
-- Natural Language Processing
-- Recommendation Systems
 
 # 💡 Fun Facts
 - 🧩 I love solving complex algorithmic problems and participating in coding challenges
